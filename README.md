@@ -4,6 +4,8 @@
 
 また個⼈・団体内で必要とされるソフトウェア(一例：[こちら](https://github.com/TANIGUCHIREI/unity_for_museum_club))なども開発してきました。
 
+漫画やデザイン制作にも興味があり、イラストやグラフィックデザインをたまに作成しています。関連して漫画・アニメ・小説を自由に調べることができる検索サイト[ゆるゆる検索](https://yuruyuru-search.com/)を作成し運営しています。
+
 将来はロボットの知能についての研究または開発に従事したいと思っています。
 
 現在はTransformerのメモリ技術に関しての研究を行っています。
@@ -11,7 +13,7 @@
 
 ### 扱える言語
 - python (研究や趣味で使用)
-- javascript　(Webサイト([こちら](https://yuruyuru-search.com/))作成に利用)
+- javascript　(Webサイト作成に利用)
 - C (Arduinoとか扱うのに利用)
 - C# (Unityでアプリ制作時に利用)
 - HTML/CSS　(Webサイト作成に利用)
